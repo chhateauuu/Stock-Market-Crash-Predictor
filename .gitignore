@@ -6,8 +6,5 @@ __pycache__/
 venv/
 .env/
 *.env
-data/raw/
-data/cleaned/
-data/merged/
 *.duckdb
 
