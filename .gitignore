@@ -7,3 +7,5 @@ venv/
 .env/
 *.env
 *.duckdb
+./random.ipynb
+random.ipynb
